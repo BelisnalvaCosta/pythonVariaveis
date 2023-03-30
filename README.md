@@ -17,15 +17,15 @@ Este roadmap é voltado para iniciantes que deseja ingressar na área de program
 - [x] Fazer a tarefa Bootc. 1
 
 ### _*Metas a serem concluídas*_ 
-- [ ] Fazer a tarefa dos cursos  
-- [ ] Algoritmos e Programação 
+- [x] Fazer a tarefa dos cursos  
+- [x] Algoritmos e Programação 
 - [ ] Introdução a conceito de Computação
 
 ### _*Tarefas para continuar aprimoramento dos cursos:*_
 - [x] Estudar o Bootcamp de Python e todos os cursos
-- [ ] Continuar a estudar Python
-- [ ] Assistir as videos aulas da Universidade 
-- [ ] Fazer os desafios de código e projetos.
+- [x] Continuar a estudar Python
+- [x] Assistir as videos aulas da Universidade 
+- [x] Fazer os desafios de código e projetos.
 - [ ] Revisar sempre as matérias
 - [ ] Fazer nova meta de estudos até o final de 2023.
 - [ ] Done! :🚀👩‍💻 (:tada:)
